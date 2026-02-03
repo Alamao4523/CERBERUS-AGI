@@ -67,7 +67,7 @@ Built with a proprietary **Human Logic Engine**, CERBERUS simulates organic touc
 Designed for **TrollStore**, **Dopamine Rootless**, and **Dopamine Roothide** environments on iOS 15/16. 📱For iPhone/iPad.
 iPad 7th GEN is compatible with both Palera1n and IOS 18. So in this case it will work with iOS 15/16/17/18
 
-** CERBERUS uses a unique **Admin Daemon** 🛠️ (Besides the TrollStore App this Daemon can be installed with Filza). This Daemon ensures CERBERUS full priveleges so it can run even when tweak injection was turned off due to a watchdog timeout/if Safe Mode was triggered🛡️
+** CERBERUS uses a unique **Admin Daemon** 🛠️ (Besides the TrollStore App this Daemon can be installed with Filza). This Daemon ensures CERBERUS full priveleges so it can run even when tweak injection was turned off due to a watchdog timeout/if Safe Mode was triggered🛡️ 💓 Basically it can check if Safe Mode was triggered and exit Safe Mode or other interesting stuff hehehe
 
 ---
 ## 🧠 Core Features: The "AGI" Difference 
