@@ -41,12 +41,14 @@ CERBERUS can still operate in OFFLINE mode without problem, however keep in mind
 
 In AI Mode, the system autonomously interprets your natural English commands and decides the best pathway for execution. 
 It is engineered to interconnect with GPT-4o Vision/Gemini or other that have the ability to understand IOS Ecosystem Handling
+
 🧠 **Cognitive Offloading:** Captures realtime screen states stored in RAM and sends them to external AI APIs to make complex logical decisions 
 
 (e.g., *"Open Classroom and do my maths homework, please ensure its done safely, do not send it, when finished please stop"* ⚔️ or *"Open TradingApp, select Demo Account, and do smart investments for 24 hours"* 🧩).
 
 
 🗣️ **Semantic Understanding:** Instead of searching for exact pixels, CERBERUS was created to be more simpler than that, the framework acts on high-level instructions interpreted by VLMs (Vision Language Models), effectively turning language into precise touch automation.
+
 🩹 **Self-Healing Properties:** LLMs are not perfect yet. CERBERUS cannot solve directly struggles that the AI could be facing in that moment, this is up to the AI. However, instead it guarantees that it will not crash and if it does crash it will AutoHeal thanks to 2 HeartBeat Protocols and design other strategies for the purpose.
 
 ---
