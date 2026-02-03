@@ -4,11 +4,12 @@ The First "Human-Like" Automation AGI for iOS 🧠✨
 
 **CERBERUS-AGI** was forged by me with a singular obsession: to achieve the **ultimate evolution** in iOS automation. 🚀  
 
-Helloo, this project was crafted for more than 5 years and I am still improving it. The full propietary source code is for sale also. 
-You can always contact me also if this is of your interesr/you see it has potential.
+Helloo, I am a IOS Security Researcher. This project was crafted for more than 5 years and I am still improving it. The full propietary source code is for sale also as of January 2026.
+
+You can always contact me also if this is of your interest/you see it has potential/you want to hire me
 📧 My Email> albertosendr@gmail.com 📧
 
-Soooooo,lets start. My design philosophy is built on 5 unshakeable pillars: 
+Soooooo, lets start. My design philosophy is built on 5 unshakeable pillars: 
 > 1.  🪶 **Extreme Lightweight Efficiency** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
 > 2.  💎 **Native Stability** (Powered by TrollStore technology as it is ultra stable + hardened with a Dopamine Admin Daemon)
 > 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AGI)
@@ -19,7 +20,8 @@ Soooooo,lets start. My design philosophy is built on 5 unshakeable pillars:
 ## 🌌 INTRODUCTION> Infinite Intelligence: A New Era
 **CERBERUS** transcends simple coordinate clicking. It is **not** limited to manual static scripts. 
 
-There are two modes> MANUAL MODE/AGI MODE
+2️⃣ There are two modes> MANUAL MODE/AGI MODE 2️⃣
+
 CERBERUS transcends simple coordinate clicking. It is born to be integrated with AI of preference. 
 
 CERBERUS serves as the kinetic bridge 🌉 where it has the ability to read the screen, launch apps, swipes, taps, execute shortcuts etc.. and with this it empowers specialized AI software like GPT-4o Vision/Gemini/Claude to take full control, transforming english digital intent into precise physical action. 
