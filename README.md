@@ -4,7 +4,11 @@ The First "Human-Like" Automation AGI for iOS 🧠✨
 
 **CERBERUS-AGI** was forged by me with a singular obsession: to achieve the **ultimate evolution** in iOS automation. 🚀  
 
-Helloo, My design philosophy is built on 5 unshakeable pillars: 
+Helloo, this project was crafted for more than 5 years and I am still improving it. The full propietary source code is for sale also. 
+You can always contact me also if this is of your interesr/you see it has potential.
+📧 My Email> albertosendr@gmail.com 📧
+
+Soooooo,lets start. My design philosophy is built on 5 unshakeable pillars: 
 > 1.  🪶 **Extreme Lightweight Efficiency** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
 > 2.  💎 **Native Stability** (Powered by TrollStore technology as it is ultra stable + hardened with a Dopamine Admin Daemon)
 > 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AGI)
