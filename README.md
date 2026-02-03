@@ -1,6 +1,6 @@
 # 🦅 CERBERUS-AGI
 
-The First "Human-Like" Automation AGI for iOS 🧠✨ You can see the VIDEO.mp4 to see it in action. Soooooo, 
+The First "Human-Like" Automation AGI for iOS 🧠✨ You can see the VIDEO.mp4 to see it in action. The most stable, human-like, long-running iOS automation engine ever built — designed to be AI-driven.
 
 **CERBERUS-AGI** was forged by me with a singular obsession: to achieve the **ultimate evolution** in iOS automation. 🚀  It can withstand months of non-stop execution. Refined with AI to improve the stability so its basically inmortal.
 
@@ -10,6 +10,7 @@ You can always contact me also if this is of your interest/you see it has potent
 📧 My Email> albertosendr@gmail.com 📧
 
 Soooooo, lets start. This project was borned because the other tools available in the market had lots of issues, at least for me. The stability was the main one.
+CERBERUS is a long-running, human-like iOS automation framework designed to operate for months without interruption. Built on TrollStore and hardened with a dedicated admin daemon, it solves the core failure of existing automation tools: instability
 
 Soooo, My design philosophy is built on 5 unshakeable pillars: 
 > 1.  🪶 **Extreme Lightweight Efficiency** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
@@ -164,3 +165,5 @@ In the folder IMAGES/VIDEOS of this project you can see this in action📜⚡
 CERBERUS-AGI is an independent project and is not affiliated with Apple Inc. 🍎
 
 Always Improving. This is created to improve lifestyle NOT for PIRACY. 
+
+The most stable, human-like, long-running iOS automation engine ever built — designed to be AI-driven.
