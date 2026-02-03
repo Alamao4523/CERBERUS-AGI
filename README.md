@@ -66,54 +66,82 @@ iPad 7th GEN is compatible with both Palera1n and IOS 18. So in this case it wil
 
 ### 1. Neural Touch Engine (Humanized Input) 🖐️
 Unlike traditional autoclickers that get banned for mechanical patterns 🤖, **CERBERUS** implements:
+
 〰️ **Bezier Curve Interpolation:** Swipes follow natural, imperfect arcs, not robotic straight lines.
+
 💓 **Micro-Tremors:** Simulates the imperceptible "hand shake" of a human finger during hold operations (`TouchSimulator.m`).
+
 ⏳ **Variable Latency:** Randomized "Reaction Time" jitter (**±12%**) to prevent temporal fingerprinting.
+
 🛡️ **Edge Protection:** Intelligent coordinate clamping to avoid triggering unintended System Gestures (Control Center or Home Bar).
 
-### 2. Visual Cortex (Background OCR) 👁️
+### 2. Visual Cortex (Background OCR) 👁️👁️
+
 Powered by a highly optimized **Tesseract** engine massaged for iOS:
+
 🚀 **20ms Latency:** Optimized C++ implementation for real-time text detection.
+
 🎨 **Software Rendering Pipeline:** Uses `CIContext` software renderers to ensure stability in background daemons where GPU access is locked. 🔒
+
 📐 **Hybrid Normalization:** Automatically adapts between **Pixel Space** (1080p) and **Point Space** (UIKit) for universal device compatibility. 📱
 
 ### 3. Deep System Control ⚙️
 👻 **Persistent Daemon:** Runs independently of the UI. Your script continues even if the app crashes or is closed.
+
 🌉 **IPC Bridge:** A robust file-based Inter-Process Communication allowing the App and Daemon to exchange data instantly. File-Based interconnnection of Cerberus Daemon vs Cerberus App because during testing it showed ultra perfect communication.
+
 🔓 **True Admin:** Everything is native for perfect execution. Native app launching and hardware-level event injection. All exactly as a human.
 
 ## 🔧 Technical Specifications
 ### Scripting Engine 📜
-CERBERUS uses a robust, proprietary scripting format designed for stability and simplicity. This was crafted this way to ensure short scripts and to be understood by everyone. This also helps the AI to craft better scripts. Other tools have complex scripting which would crash any AI due to complexity/variables.
-CERBERUS solves this using an internal JSON AI PARSER, so it uses its own unique and super easy commands> 
 
-# 🎮 Example Manual Script so you can see the syntaxis
+CERBERUS uses a robust, proprietary scripting format designed for stability and simplicity.
+
+This was crafted this way to ensure short scripts and to be understood by everyone. This also helps the AI to craft better scripts. 
+
+Other tools have complex scripting which would crash any AI due to complexity/variables.
+
+CERBERUS solves this using an internal JSON AI PARSER, so it uses its own unique and super easy commands
+
+# 🎮 Example Manual Script. The Syntaxis
 
 name: RealExampleScriptShowcaseV1
+
 loop: true
+
 loopTimes: -1
+
 defaultDelay: 0
 
+
 applaunch: com.xxxxx.xxxxxx
+
 ocr:Login
+
 swipe:0.5,0.8|0.5,0.2|0.5
+
 find:BANNED|shortcuts://run-shortcut?name=BAN
+
 tap:0.16,0.73
+
 lock
+
 home
-home
+
 volumeUp
+
 volumeDown
+
 ocr:Explore>delay:2
 
 ETC...
 
 As you can see the syntaxis must be really simple so that a AI/AGI can create decent scripts that will finish with a positive outcome. 
-In the folder IMAGES/VIDEOS of this project you can see it in action📜⚡
+In the folder IMAGES/VIDEOS of this project you can see this in action📜⚡
 
 ### Resource Efficiency 🔋
-📉 **Dynamic Frequency Scaling:** The daemon sleeps when idle (**0% CPU**) and wakes only for action execution, it tries to interfere minimally to avoid any JETSAM kills
-🧹 **Memory Safety:** Automatic strict recycling of the OCR engine and other components to prevent heap fragmentation during 24/7 operation, to ensure months of true operation
----
+
+📉 Dynamic Frequency Scaling: The daemon sleeps when idle (**0% CPU**) and wakes only for action execution, it tries to interfere minimally to avoid any JETSAM kills
+🧹 Memory Safety: Automatic strict recycling of the OCR engine and other components to prevent heap fragmentation during 24/7 operation, to ensure months of true operation
 
 CERBERUS-AGI is an independent project and is not affiliated with Apple Inc. 🍎
