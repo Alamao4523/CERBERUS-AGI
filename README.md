@@ -81,15 +81,14 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 🧬 Human-Like Input Engine system-wide
 
-# 🖐️ Proprietary Human Logic Engine - Behaves like a real human hand
+# 🖐️ Human System-Wide Logic Engine
 
-〰️ Bezier-curve swipes (non-robotic motion)
-
-💓 Micro-tremors during holds
-
-⏳ Randomized reaction latency (±12%)
-
-🛡️ Edge protection against system gestures
+🖐️ System-Wide Logic Engine: 
+> 1.  〰️ Bezier-curve swipes (non-robotic motion)
+> 2.  💓 Micro-tremors during holds, taps, gestures...
+> 3.  ⏳ Randomized reaction latency and delays (±12%)
+> 4.  🛡️ Edge Boundary protection against off-limit system gestures
+> 5.  🧬 Native Human System-Wide inputs
 
 # ⚙️ Compatibility & Architecture
 
@@ -101,9 +100,9 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 📱 iPhone & iPad are fully supported
 
-# 🛠️ Admin Daemon
+# 🛠️ Admin Jailbreak Daemon + Cerberus TrollStore App
 
-Installed separately (via Filza)
+This means power. 
 
 Full privileges
 
