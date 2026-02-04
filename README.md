@@ -30,8 +30,7 @@ My design philosophy is built on 5 unshakeable pillars:
 
 # 🌌 Introduction — Beyond Coordinate Clicking
 
-CERBERUS is not a simple autoclicker.
-It understands screens, context, and intent, not just coordinates.
+CERBERUS is not a simple autoclicker. It understands screens, context, and intent, not just coordinates. It was crafted to become a future AGI IOS Agent.
 
 2️⃣ Automation Modes
 
