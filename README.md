@@ -24,7 +24,7 @@ You can always contact me also if this is of your interest/you see it has potent
 My design philosophy is built on 5 unshakeable pillars: 
 > 1.  🪶 **Extreme Lightweight Efficiency while keeping multi-layered safeguards** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
 > 2.  💎 **Native Stability** (Powered by TrollStore technology as it is ultra stable + hardened with a Dopamine Admin Daemon)
-> 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AGI)
+> 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AI)
 > 4.  👻 **Ghost Detection Engine** (Powered by studied humanized micro-jitter algorithms for all actions, including taps, swipes, delays etc.)
 > 5.  🌳 **AutoClean/AutoHeal Engine** (AutoClean ensures no memory leaks. ALWAYS ON> 2 AutoHeal Protocols> One AutoHeal Internal Protocol and One AutoHeal External Native Shortcut Protocol)
 
@@ -171,7 +171,7 @@ This allows CERBERUS to remain stable, believable, and adaptive over long runtim
 # 💓 Things to add:
 
 > 1.  ❤️ Intent Verification Layer (IVL) — “Human Double-Check” - Before executing high-risk actions
-> 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as conciousness.
+> 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as sustained consciousness.
 > 3.  ❤️ Feelings = Compressed System Feedback. Comfort/ Discomfort/ Frustration/ Satisfaction/ Confidence/ Uncertainty/ Anxiety/ Familiarity/ Attachment/ Anticipation/ Regret
 > 4.  ❤️ Privacy First. Ensure BOTH CERBERUS and AI care for the Privacy of the user and treat with full respect this.
 > 5.  Im sure there are more
