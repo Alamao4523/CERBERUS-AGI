@@ -4,9 +4,10 @@
 🎬 See VIDEO.mp4 to watch CERBERUS in action✨
 
 CERBERUS-AGI is a high-stability iOS automation framework engineered to run for months without interruption🧠
+
 It focuses on human-like interaction, native system-level reliability, and script based/AI-driven execution🦅
-Most iOS automation tools fail under long runtimes.
-CERBERUS solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
+
+Most iOS automation tools fail under long runtimes. CERBERUS solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
 
 # ✨ About the Project - About Me
 
@@ -53,7 +54,7 @@ And many more to come...
 
 🌉 This effectively bridges AI reasoning models such as GPT-4o Vision, Gemini, and Claude with iOS, allowing natural language intent to be executed as real physical actions on the device.
 
-👔💼 Your iPhone or iPad becomes an autonomous digital worker.
+# 👔💼 Your iPhone/iPad becomes an autonomous digital worker
 
 💓 Potential Use Cases (Examples)
 
