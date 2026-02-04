@@ -1,10 +1,10 @@
 # 🦅 CERBERUS-AGI 2026
 # Human-Like, Long-Running iOS Automation — Built for AGI Control 🧠🤖
 
-🎬 See VIDEO.mp4 to watch CERBERUS in action.
+🎬 See VIDEO.mp4 to watch CERBERUS in action✨
 
-CERBERUS-AGI is a high-stability iOS automation framework engineered to run for months without interruption.
-It focuses on human-like interaction, native system-level reliability, and script based/AI-driven execution.
+CERBERUS-AGI is a high-stability iOS automation framework engineered to run for months without interruption🧠
+It focuses on human-like interaction, native system-level reliability, and script based/AI-driven execution🦅
 Most iOS automation tools fail under long runtimes.
 CERBERUS solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
 
@@ -35,25 +35,23 @@ It understands screens, context, and intent, not just coordinates.
 2️⃣ Automation Modes
 
 🛠️ Manual Mode
+
 🧠 AI Mode
 
-🌉 AI Integration — Giving AI “Eyes & Hands”
+# 🌉 AI Integration — Giving AI “Eyes & Hands”
 
-CERBERUS acts as a kinetic bridge 🌉 between iOS and AI systems.
+CERBERUS acts as a kinetic bridge 🌉 between iOS and AI systems. With a key difference from other tools, it will do it exactly as a human.
 
-It can:
+Current Capabalities: 
+> 1.  🚀🤖 **Launch Apps**
+> 2.  👁️👁️ **Read/Interact with the screen natively (OCR) + Ability to AI to see/interact with screen content** 
+> 3.  🖐️🖐️ **Tap, swipe & gesture... All actions are IDENTICAL to human behaviour**
+> 4.  ⚙️🚀 **Execute IOS Shortcuts** (Support for the native IOS Shortcuts App)
+> 5.  🧱💓 **Run persistently in background** (No app crashes never. If it does crash, it will AutoHeal.)
 
-👁️ Read the screen (OCR)
+And many more to come...
 
-🚀 Launch apps
-
-🖐️ Tap, swipe & gesture
-
-⚙️ Execute shortcuts
-
-🧱 Run persistently in background
-
-This allows AI models like GPT-4o Vision / Gemini / Claude to transform natural language intent into real physical iOS actions.
+🌉 This effectively bridges AI reasoning models such as GPT-4o Vision, Gemini, and Claude with iOS, allowing natural language intent to be executed as real physical actions on the device.
 
 👔💼 Your iPhone or iPad becomes an autonomous digital worker.
 
