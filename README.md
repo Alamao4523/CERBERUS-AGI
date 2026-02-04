@@ -25,7 +25,7 @@ My design philosophy is built on 5 unshakeable pillars:
 > 1.  🪶 **Extreme Lightweight Efficiency while keeping multi-layered safeguards** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
 > 2.  💎 **Native Stability** (Powered by TrollStore technology as it is ultra stable + hardened with a Dopamine Admin Daemon)
 > 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AI)
-> 4.  👻 **Ghost Detection Engine** (Powered by studied humanized micro-jitter algorithms for all actions, including taps, swipes, delays etc.)
+> 4.  👻 **Human Input Engine** (Powered by studied humanized micro-jitter algorithms for all actions, including taps, swipes, delays etc.)
 > 5.  🌳 **AutoClean/AutoHeal Engine** (AutoClean ensures no memory leaks. ALWAYS ON> 2 AutoHeal Protocols> One AutoHeal Internal Protocol and One AutoHeal External Native Shortcut Protocol)
 
 # 🌌 Introduction — Beyond Coordinate Clicking:
