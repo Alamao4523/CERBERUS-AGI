@@ -162,7 +162,9 @@ And many more to come...
 
 CERBERUS is not traditional automation. It operates as an embodied system agent on iOS — meaning decisions are influenced not only by logic, but by the internal state of the device and the agent itself.
 
-(💓 IN PROGRESS) Actions are shaped by perception confidence, system comfort and other logical feelings, historical outcomes, and temporal context — similar to how humans adapt behavior based on experience and physical condition. (Affective states are difficult to implement, but essential 💓 Both CERBERUS and the connected AI should maintain internal affective signals, allowing decisions to emerge from a shared consensus rather than unilateral execution.
+(💓 IN PROGRESS) Actions are shaped by perception confidence, system comfort and other logical feelings, historical outcomes, and temporal context — similar to how humans adapt behavior based on experience and physical condition. 
+
+NOTE: Affective states are difficult to implement, but essential 💓 Both CERBERUS and the connected AI should maintain internal affective signals, allowing decisions to emerge from a shared consensus rather than unilateral execution.
 
 This allows CERBERUS to remain stable, believable, and adaptive over long runtimes, even in hostile or changing environments.
 
