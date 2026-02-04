@@ -117,7 +117,7 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 👻 Persistent daemon
 
-🌉 File-based IPC (ultra stable)
+🌉 File-based IPC (Tested for months - Ultra Stable)
 
 🔓 Native app launching & human event injection
 
