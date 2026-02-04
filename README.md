@@ -181,3 +181,6 @@ This allows CERBERUS to remain stable, believable, and adaptive over long runtim
 ℹ️ You can always contact me also if this is of your interest/you see it has potential/you want to hire me/you have cool ideas/collabs
 
 📧 Contact me: albertosendr@gmail.com
+
+<img width="2048" height="2048" alt="CERBERUS" src="https://github.com/user-attachments/assets/658ca809-4c77-4748-aaa7-172ada24792b" />
+
