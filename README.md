@@ -7,7 +7,7 @@ CERBERUS-AGI is a high-stability iOS automation framework engineered to run for 
 
 It focuses on human-like interaction, native system-level reliability, and script based/AI-driven execution🦅
 
-Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer or crash when Jailbreak goes into Safe Mode. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
+ℹ️ Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer or crash when Jailbreak goes into Safe Mode. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
 
 # ✨ About the Project - About Me:
 
@@ -160,7 +160,7 @@ And many more to come...
 
 # 🧠🫀 Embodied Cognition Layer — Beyond Automation
 
-CERBERUS is not traditional automation. It operates as an embodied system agent on iOS — meaning decisions are influenced not only by logic, but by the internal state of the device and the agent itself.
+ℹ️ CERBERUS is not traditional automation. It operates as an embodied system agent on iOS — meaning decisions are influenced not only by logic, but by the internal state of the device and the agent itself.
 
 (💓 IN PROGRESS) Actions are shaped by perception confidence, system comfort and other logical feelings, historical outcomes, and temporal context — similar to how humans adapt behavior based on experience and physical condition. 
 
@@ -178,6 +178,6 @@ This allows CERBERUS to remain stable, believable, and adaptive over long runtim
 
 🎬 See VIDEO.mp4 to watch CERBERUS 🐺🐺🐺 in action✨
 
-You can always contact me also if this is of your interest/you see it has potential/you want to hire me/you have cool ideas/collabs
+ℹ️ You can always contact me also if this is of your interest/you see it has potential/you want to hire me/you have cool ideas/collabs
 
 📧 Contact me: albertosendr@gmail.com
