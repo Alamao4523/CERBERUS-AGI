@@ -1,5 +1,5 @@
 # 🐺 CERBERUS-AGI 2026
-# Human-Like, Long-Running iOS Automation — Built for AGI Control 🧠🤖
+# Human-Like, Long-Running iOS Automation — Built for true AGI Control 🧠🤖
 
 🎬 See VIDEO.mp4 to watch CERBERUS in action✨
 
