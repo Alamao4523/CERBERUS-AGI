@@ -127,7 +127,7 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 🔓 Native app launching & human event injection
 
-🔋 Maintains 50–80% battery to simulate human usage due to a TrollStore mini daemon
+🔋 Maintains 50–80% battery to simulate human usage thanks to a TrollStore mini daemon
 
 🛡️ Safety Based. Uptime Kernel Randomization for the selected apps. Supports all IOS Uptime checks. Keeps realistic uptime (10–40 days). Available in both .DEB and .DYLIB (JAILED Injection)
 
@@ -171,6 +171,10 @@ This allows CERBERUS to remain stable, believable, and adaptive over long runtim
 > 1.  ❤️ Intent Verification Layer (IVL) — “Human Double-Check” - Before executing high-risk actions
 > 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as conciousness.
 > 3.  ❤️ Feelings = Compressed System Feedback. Main Ones> Comfort/Discomfort/Frustration/Satisfaction/Confidence/Uncertainty/Anxiety/Familiarity/Attachment/Anticipation/Regret
+> 4.  ❤️ Privacy First. Ensure BOTH CERBERUS and AI care for the Privacy of the user and treat with full respect this.
+> 5.  Im sure there are more
+
+🎬 See VIDEO.mp4 to watch CERBERUS in action✨
 
 You can always contact me also if this is of your interest/you see it has potential/you want to hire me/you have cool ideas/collabs
 
