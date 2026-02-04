@@ -146,6 +146,9 @@ So CERBERUS uses a simple proprietary scripting format. This is a must. It must 
 
 📜 I attached a example script, every new line will correspond to a action. Capable of handling +1 Million actions as its file based and safeguards keep it on track against edge-cases
 
+![unnamed](https://github.com/user-attachments/assets/a8f6b42e-8f09-45db-8369-86dbd7a838fe)
+
+
 # 🔋 Resource Efficiency + Other SubModules
 
 📉 Dynamic frequency scaling (0% CPU when idle)
