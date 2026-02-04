@@ -9,7 +9,7 @@ It focuses on human-like interaction, native system-level reliability, and scrip
 
 Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
 
-# ✨ About the Project - About Me
+# ✨ About the Project - About Me:
 
 CERBERUS was crafted over 5+ years work. Driven by one obsession: PURE stability revolution. 
 The only way this can be achieved is to be as native as posible but still remaining truly powerful.
@@ -19,7 +19,7 @@ You can always contact me also if this is of your interest/you see it has potent
 
 📧 Contact me: albertosendr@gmail.com
 
-# 🧱 Design Philosophy — 5 Core Pillars
+# 🧱 Design Philosophy — 5 Core Pillars:
 
 My design philosophy is built on 5 unshakeable pillars: 
 > 1.  🪶 **Extreme Lightweight Efficiency while keeping multi-layered safeguards** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
@@ -28,7 +28,7 @@ My design philosophy is built on 5 unshakeable pillars:
 > 4.  👻 **Ghost Detection Engine** (Powered by studied humanized micro-jitter algorithms for all actions, including taps, swipes, delays etc.)
 > 5.  🌳 **AutoClean/AutoHeal Engine** (AutoClean ensures no memory leaks. ALWAYS ON> 2 AutoHeal Protocols> One AutoHeal Internal Protocol and One AutoHeal External Native Shortcut Protocol)
 
-# 🌌 Introduction — Beyond Coordinate Clicking
+# 🌌 Introduction — Beyond Coordinate Clicking:
 
 CERBERUS is not a simple autoclicker. It understands screens, context, and intent, not just coordinates. It was crafted to become a future AGI IOS Agent.
 
@@ -38,7 +38,7 @@ CERBERUS is not a simple autoclicker. It understands screens, context, and inten
 
 🧠 AI Mode
 
-# 🌉 AI Integration — Giving AI “Eyes & Hands”
+# 🌉 AI Integration — Giving AI “Eyes & Hands”:
 
 CERBERUS acts as a kinetic bridge 🌉 between iOS and AI systems. With a key difference from other tools, it will do it exactly as a human.
 
@@ -70,7 +70,7 @@ And many more to come...
 
 And many more to come... This are examples only — legality depends on your jurisdiction.
 
-# 🛠️ Script Mode / 🪄 AI Mode
+# 🛠️ Script Mode / 🪄 AI Mode:
 
 CERBERUS can run 100% offline, except when using external AI APIs obviously (unless AI is local). In AI Mode, AI interprets English commands and decides optimal/logical execution paths to achieve user desired outcomes
 
@@ -104,7 +104,7 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 💓 iPhone & iPad are fully supported
 
-# 🛠️ Admin Jailbreak Daemon + Cerberus TrollStore App
+# 🛠️ Admin Jailbreak Daemon + Cerberus TrollStore App:
 
 🛠️ Admin DAEMON Info: 
 > 1.  🛡️ This means power. Full privileges. Capable of extreme assistance/recovery of CERBERUS Main App.
@@ -113,7 +113,7 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 > 4.  🛡️ Can detect and solve Dopamine Watchdog Timeouts + perform userspace reboots to apply
 > 5.  🛡️ Many other curated Defense Mechanisms like Auto-Refresh App Registrations without any interruption to avoid entlitlements issues etc.
 
-# 🧠 SuperCharged with Core System Features
+# 🧠 SuperCharged with Core System Features:
 
 🤖 AI/SCRIPT Based Driven Automation
 
@@ -132,7 +132,7 @@ If AI fails logically, CERBERUS ensures deep-process survival & recovery
 🛡️ Safety Based. Uptime Kernel Randomization for the selected apps. Supports all IOS Uptime checks. Keeps realistic uptime (10–40 days). Available in both .DEB and .DYLIB (JAILED Injection)
 
 
-# 📜 About the Scripting Engine
+# 📜 About the Scripting Engine:
 
 So CERBERUS uses a simple proprietary scripting format. This is a must. It must be ultra simple so the AI can craft short scripts with positive outcomes.
 
@@ -152,10 +152,19 @@ So CERBERUS uses a simple proprietary scripting format. This is a must. It must 
 
 And many more to come... 
 
-# ⚠️ Disclaimer
+# ⚠️ Disclaimer:
 
 > 1.  ⚠️ CERBERUS-AGI is an independent research project and is not affiliated with Apple Inc.
 > 2.  ⚠️ Built to improve lifestyle & automation — NOT for PIRACY.
 > 3.  ⚠️ CERBERUS was never designed as a jailbreak toy😊 It was built as a poweful system-level vector to enable AI integration through the capabilities provided by the CERBERUS bridge.
 
-🦅 The most stable, human-like, long-running iOS automation engine ever built — designed to be AI-driven. 🧠🤖
+# 💓 Things to add:
+
+CERBERUS is not automation — it is embodied cognition on iOS. So im seeking constantly revolutionary ideas to keep improving 💓
+
+> 1.  ❤️ Intent Verification Layer (IVL) — “Human Double-Check” - Before executing high-risk actions
+> 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as conciousness.
+> 3.  ❤️ Feelings = Compressed System Feedback. Main Ones> Comfort/Discomfort/Frustration/Satisfaction/Confidence/Uncertainty/Anxiety/Familiarity/Attachment/Anticipation/Regret
+
+You can always contact me also if this is of your interest/you see it has potential/you want to hire me
+📧 Contact me: albertosendr@gmail.com
