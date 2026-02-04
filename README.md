@@ -15,26 +15,19 @@ The only way this can be achieved is to be as native as posible but still remain
 You can always contact me also if this is of your interest/you see it has potential/you want to hire me
 
 💼 Full Proprietary source code available for someone who invests in me
+
 📧 Contact me: albertosendr@gmail.com
 
 # 🧱 Design Philosophy — 5 Core Pillars
 
-🪶 Extreme Lightweight Efficiency
-~20MB total footprint · RAM-first design · minimal storage impact
+Helloo, My design philosophy is built on 5 unshakeable pillars: 
+> 1.  🪶 **Extreme Lightweight Efficiency** (~20MB Total App Footprint - with a preference of storing everything in the RAM - Impact on IOS Storage is minimal)
+> 2.  💎 **Native Stability** (Powered by TrollStore technology as it is ultra stable + hardened with a Dopamine Admin Daemon)
+> 3.  🤖 **Ultra-Intelligence** (Bridging static scripts and true AGI)
+> 4.  👻 **Imposible Detection** (Powered by studied humanized micro-jitter algorithms for all actions, including taps, swipes, delays etc.)
+> 5.  🌳 **AutoClean/AutoHeal** (AutoClean ensures no memory leaks. ALWAYS ON> 2 AutoHeal Protocols> One AutoHeal Internal Protocol and One AutoHeal External Native Shortcut Protocol)
 
-💎 Native Stability
-Powered by TrollStore + hardened Dopamine admin daemon
-
-🤖 AI-Ready Intelligence
-Bridging static scripts and AI-driven decision making
-
-👻 Human-Like Execution
-Micro-jitter, organic delays, taps & swipes like a real user
-
-🌳 AutoClean / AutoHeal
-Always-on memory cleanup + dual self-healing protocols
-
-🌌 Introduction — Beyond Coordinate Clicking
+# 🌌 Introduction — Beyond Coordinate Clicking
 
 CERBERUS is not a simple autoclicker.
 It understands screens, context, and intent, not just coordinates.
