@@ -48,6 +48,7 @@ Current Capabalities:
 > 3.  🖐️ **Tap, swipe & gesture... All actions are IDENTICAL to human behaviour**
 > 4.  ⚙️ **Execute IOS Shortcuts** (Support for the native IOS Shortcuts App)
 > 5.  🧱 **Run persistently in background** (No app crashes never. If it does crash, it will AutoHeal.)
+> 6.  🎮 **Deep Sensor Retrieval** (Using the own deep low-level sensor data of the device to make decisions, in complex environments)
 
 And many more to come...
 
@@ -58,10 +59,13 @@ And many more to come...
 💓 Potential Use Cases (Examples): 
 > 1.  📈 Trader Agent AI-driven trading based on charts, news & live app data
 > 2.  🎮 Game Automation. Human-like farming, healing & repetitive gameplay
-> 3.  📱 Growth Engine Social workflows executed physically — not fragile APIs
+> 3.  📱 Growth Engine Social Media workflows executed physically — not fragile APIs
 > 4.  💓 Unique in helping for 0nlyFans related Marketing
 > 5.  📅 Digital Secretary - Automates repetitive iOS tasks & your daily workflows
 > 6.  🧠 AI Bridge - Allows AI to solve CAPTCHAs, puzzles, skip intrusive ads & also perform on dynamic changing UI logic btw
+> 7.  📱 App Testing: Perfect for stress testing during months, and performance monitoring.
+> 8.  📈 Workflow Data Automation: Batch file processing and data analysis.
+> 9.  🎮 Smart Control: Responsive scripts using the own sensor data of the device.
 
 And many more to come... This are examples only — legality depends on your jurisdiction.
 
