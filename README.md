@@ -11,7 +11,7 @@ Most iOS automation tools fail under long runtimes or require to be connected pe
 
 # ✨ About the Project - About Me
 
-CERBERUS was crafted over 5+ years work. Driven by one obsession: PURE stability. 
+CERBERUS was crafted over 5+ years work. Driven by one obsession: PURE stability revolution. 
 The only way this can be achieved is to be as native as posible but still remaining truly powerful.
 You can always contact me also if this is of your interest/you see it has potential/you want to hire me
 
@@ -79,6 +79,8 @@ High-level intent → precise touch automation
 If AI fails logically, CERBERUS ensures deep-process survival & recovery
 
 🧬 Human-Like Input Engine system-wide
+
+💓 If it suits you, its ready to be scaled to your desired petition. No need for computer. All happens ON-DEVICE
 
 # 🖐️ Human System-Wide Logic Engine
 
