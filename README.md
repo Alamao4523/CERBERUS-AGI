@@ -158,9 +158,15 @@ And many more to come...
 > 2.  ⚠️ Built to improve lifestyle & automation — NOT for PIRACY.
 > 3.  ⚠️ CERBERUS was never designed as a jailbreak toy😊 It was built as a poweful system-level vector to enable AI integration through the capabilities provided by the CERBERUS bridge.
 
-# 💓 Things to add:
+# 🧠🫀 Embodied Cognition Layer — Beyond Automation
 
-CERBERUS is not automation — it is embodied cognition on iOS. So im seeking constantly revolutionary ideas to keep improving 💓
+CERBERUS is not traditional automation. It operates as an embodied system agent on iOS — meaning decisions are influenced not only by logic, but by the internal state of the device and the agent itself.
+
+Actions are shaped by perception confidence, system comfort, historical outcomes, and temporal context — similar to how humans adapt behavior based on experience and physical condition.
+
+This allows CERBERUS to remain stable, believable, and adaptive over long runtimes, even in hostile or changing environments.
+
+# 💓 Things to add:
 
 > 1.  ❤️ Intent Verification Layer (IVL) — “Human Double-Check” - Before executing high-risk actions
 > 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as conciousness.
