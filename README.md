@@ -166,5 +166,6 @@ CERBERUS is not automation — it is embodied cognition on iOS. So im seeking co
 > 2.  ❤️ Temporal Memory Engine - Lightweight long-term memory stored as compressed behavior vectors. True AGI must have this, often referred as conciousness.
 > 3.  ❤️ Feelings = Compressed System Feedback. Main Ones> Comfort/Discomfort/Frustration/Satisfaction/Confidence/Uncertainty/Anxiety/Familiarity/Attachment/Anticipation/Regret
 
-You can always contact me also if this is of your interest/you see it has potential/you want to hire me
+You can always contact me also if this is of your interest/you see it has potential/you want to hire me/you have cool ideas/collabs
+
 📧 Contact me: albertosendr@gmail.com
