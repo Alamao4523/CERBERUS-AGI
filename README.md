@@ -104,32 +104,7 @@ albertosendr@gmail.com
 
 ⸻
 
-Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer or crash when Jailbreak goes into Safe Mode. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
-
-<img width="2048" height="2048" alt="CERBERUS" src="https://github.com/user-attachments/assets/658ca809-4c77-4748-aaa7-172ada24792b" />
-
-⸻
-
-CERBERUS was crafted over 5+ years work. Driven by one obsession: PURE stability revolution. 
-The only way this can be achieved is to be as native as posible but still remaining truly powerful.
-You can always contact me also if this is of your interest/you see it has potential/you want to hire me
-
-💼 Full Proprietary source code available for someone who invests in me
-
-📧 Contact me: albertosendr@gmail.com
-
 <img width="1620" height="2160" alt="image" src="https://github.com/user-attachments/assets/304c4306-6a8b-442a-a56e-fac5b392e268" />
-
-
-# 📜 About the Scripting Engine:
-
-So CERBERUS uses a simple proprietary scripting format. This is a must. It must be ultra simple so the AI can craft short scripts with positive outcomes.
-
-🔥 No LUA. No PYTHON. No Code. This is achieved by using a secret-sauce AI JSON OFFLINE Parser. Everything is then converted so Cerberus can take action.
-
-👑 Creating scripts should be easy for humans. Even easier for AI. Complex scripting languages were intentionally avoided. This AI Parser also ensures that if a action is malformed it will just continue safely with the execution. 
-
-📜 I attached a example script, every new line will correspond to a action. Capable of handling +1 Million actions as its file based and safeguards keep it on track against edge-cases
 
 ![unnamed](https://github.com/user-attachments/assets/a8f6b42e-8f09-45db-8369-86dbd7a838fe)
 
