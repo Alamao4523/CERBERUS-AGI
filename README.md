@@ -102,12 +102,13 @@ If you are interested in the research, collaboration, or technical discussion, y
 
 albertosendr@gmail.com
 
+⸻
 
-ℹ️ Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer or crash when Jailbreak goes into Safe Mode. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
+Most iOS automation tools fail under long runtimes or require to be connected permanently to a computer or crash when Jailbreak goes into Safe Mode. CERBERUS is a standalone IOS Software IPA that solves this with TrollStore execution, a dedicated admin daemon, and a self-clean+healing architecture.
 
 <img width="2048" height="2048" alt="CERBERUS" src="https://github.com/user-attachments/assets/658ca809-4c77-4748-aaa7-172ada24792b" />
 
-# ✨ About the Project - About Me:
+⸻
 
 CERBERUS was crafted over 5+ years work. Driven by one obsession: PURE stability revolution. 
 The only way this can be achieved is to be as native as posible but still remaining truly powerful.
