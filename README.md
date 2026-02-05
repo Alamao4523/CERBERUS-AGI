@@ -119,7 +119,5 @@ albertosendr@gmail.com
 
 ⸻
 
-<img width="1620" height="2160" alt="image" src="https://github.com/user-attachments/assets/304c4306-6a8b-442a-a56e-fac5b392e268" />
-
 ![unnamed](https://github.com/user-attachments/assets/a8f6b42e-8f09-45db-8369-86dbd7a838fe)
 
