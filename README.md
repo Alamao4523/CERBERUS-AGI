@@ -6,7 +6,7 @@ A long-running iOS interaction framework designed for persistent UI automation, 
 
 This project focuses on stability, low resource usage, and reliable on-device execution without requiring a permanent connection to a computer.
 
-A demonstration video is available in VIDEO.mp4.
+💜A demonstration video is available in VIDEO.mp4💜
 
 ⸻
 
